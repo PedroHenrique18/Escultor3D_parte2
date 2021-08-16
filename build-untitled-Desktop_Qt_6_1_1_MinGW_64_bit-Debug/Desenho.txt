@@ -1,0 +1,5 @@
+t 100 100 100
+putEllipsoid 50 50 50 10 37 10 0.7 1 0.2 0
+cutEllipsoid 50 50 50 10 5 10 0.7 1 0.2 0
+putSphere 50 26 50 15 139 0 139 0
+putSphere 50 48 50 15 139 0 139 0
