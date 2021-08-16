@@ -2,6 +2,6 @@
 
 Projeto da disciplina Programação Avançada (DCA 1202) do curso de Ciências e Tecnologia da Universidade Federal do Rio Grande do Norte - UFRN
 
-# git commit -m "Desenho_3D part2"
+git commit -m "Desenho_3D part2"
 
-# git commit -m "build-untitled-Desktop_Qt_6_1_1_MinGW_64_bit-Debug"
+git commit -m "build-untitled-Desktop_Qt_6_1_1_MinGW_64_bit-Debug"
